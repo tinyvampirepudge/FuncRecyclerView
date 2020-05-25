@@ -1,0 +1,2 @@
+rootProject.name='FuncRecyclerView'
+include ':app'

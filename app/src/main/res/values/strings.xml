@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FuncRecyclerView</string>
+    <string name="no_data">暂无数据</string>
+    <string name="placeholder_hint_empty_default">暂无相关内容</string>
+    <string name="placeholder_hint_empty_message">没有消息</string>
+    <string name="placeholder_hint_error_default">服务错误，请重新加载</string>
+    <string name="placeholder_hint_error_network">哎呀，网络出错了</string>
+</resources>
